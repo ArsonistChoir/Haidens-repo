@@ -1,5 +1,5 @@
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [Project 1](project_1)
+* [My First Repo](my-first-repo/my-first-repo)
 * [Project 2](project_2)
